@@ -1,0 +1,11 @@
+Alex,Capricorn
+Nicholas,Leo
+Luke,Pisces
+Dennis,Sagittarius
+Kamiye,Aquarius
+Peter,Virgo
+Liam,Aries
+Winston,Scorpius
+Camille,Leo
+Jeff,Cancer
+Tynan,Gemini
